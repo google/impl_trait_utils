@@ -1,3 +1,7 @@
+**Development has moved to https://github.com/rust-lang/impl-trait-utils.**
+
+---
+
 # `impl_trait_utils`
 
 Utilities for working with impl traits in Rust.
